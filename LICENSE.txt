@@ -8,11 +8,11 @@ Note: Best viewed in "Raw" mode.
 
  _____________________________________________________________ 
 |                                                             |
-| The Thing this license is for     is THIS_RANDOM_ITEM       |
+| The Thing this license is for     is the AUTOGRABIT repo    |
 |                                                             |
-| The owner (I/me) of this Thing    is THIS_RANDOM_PERSON     |
+| The owner (I/me) of this Thing    is H.Azzouz/ haz/ hazzouz |
 |                                                             |
-| The owner (I/me) can be contacted at THIS_RANDOM_CONTACT    |
+| The owner (I/me) can be contacted at haz@mit.edu            |
 |_____________________________________________________________|
 
 
