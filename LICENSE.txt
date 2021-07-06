@@ -58,10 +58,7 @@ Note: Best viewed in "Raw" mode.
 |                                                             |
 | EEPLV1 was written by haz@mit.edu, who you are free to      |
 | contact with complaints, suggestions, questions, comments   |
-| stories, revisions, or whatever you want.                   |
-|                                                             |
-| Inspired by the WTFPL License, Version 2                    |
-| December 2004, Sam Hocevar <sam@hocevar.net>                |
+| stories, revisions, etc.                                    |
 |_____________________________________________________________|
 
 
